@@ -41,7 +41,7 @@ A collection of AI-powered products I've designed and built—from problem disco
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** https://abhishek-singh-pm.netlify.app/
+- 🌐 **Portfolio:** https://abhishek-pm.netlify.app/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-5944b967/
 - 💻 **GitHub:** https://github.com/abhishek66singh-ship-it
 - 📧 **IIM Ahmedabad:** p18abhisheksingh@iima.ac.in
